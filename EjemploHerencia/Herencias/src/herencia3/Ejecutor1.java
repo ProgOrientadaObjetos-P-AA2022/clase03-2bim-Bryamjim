@@ -33,6 +33,7 @@ public class Ejecutor1 {
         rd.establecerLista(listaDistancia);
         rd.establecerTotalMatriculasDistancia();
         
+
         System.out.println("----------------------");
         System.out.println(rd);
         
